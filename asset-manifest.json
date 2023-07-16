@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ahrt/static/css/main.30ea52ad.css",
+    "main.js": "/ahrt/static/js/main.25522164.js",
+    "static/js/787.2a25c2bc.chunk.js": "/ahrt/static/js/787.2a25c2bc.chunk.js",
+    "index.html": "/ahrt/index.html",
+    "main.30ea52ad.css.map": "/ahrt/static/css/main.30ea52ad.css.map",
+    "main.25522164.js.map": "/ahrt/static/js/main.25522164.js.map",
+    "787.2a25c2bc.chunk.js.map": "/ahrt/static/js/787.2a25c2bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.25522164.js"
+  ]
+}
